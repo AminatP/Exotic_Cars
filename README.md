@@ -1,4 +1,4 @@
 # Exotic_Cars
 
-!(../master/images/ExotiCar.jpg)
+![](../master/images/ExotiCar.jpg)
 
